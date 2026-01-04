@@ -14,5 +14,6 @@ const calculate = () =>{
 }
 
 const clearDisplay = () =>{
-     dispplay.value = '';
+     display.value = '';
+
 }
